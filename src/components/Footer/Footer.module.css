@@ -1,0 +1,30 @@
+.footer{
+    margin-top: 5px;
+    width: 100%;
+    height: auto;
+    background-color: rgba(232,227,207,255) ;
+    text-align: center;
+}
+.name{
+    font-size: 40px;
+    color: black;
+    border-bottom: 1px solid white;
+}
+.soc{
+    height: 35px;
+    weight: 35px;
+}
+.social a{
+    margin: 30px;
+    border:white;
+}
+.soc:hover{
+   border-bottom: 2px solid white;
+}
+.Copyright{
+    margin-top: 10px;
+    color: black;
+}
+.social{
+    margin-top: 7px;
+}
