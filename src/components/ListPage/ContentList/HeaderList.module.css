@@ -1,0 +1,21 @@
+.listPageFilter {
+    height: 39px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(141, 234, 84);
+}
+
+.filter {
+    display: flex;
+    padding-right: 20px;
+}
+
+.inputSearch {
+    display: flex;
+}
+
+.header {
+    margin-top: 5px;
+}
+
