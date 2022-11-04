@@ -1,0 +1,51 @@
+
+.introduction{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    background-color: rgba(232,227,207,255);
+}
+
+.text{
+    padding-top: 50px;
+    padding-right: 100px;
+}
+
+
+
+.paragraph{
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 80px;
+}
+.paragraph .more{
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.photo{
+    margin: 10px;
+    width: 420px;
+    height: 330px;
+    padding: 5px;
+}
+.content{
+    margin-top: 5px;
+    background-color:rgba(232,227,207,255) ;
+    border: 1px solid green;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+.buttom{
+    text-align: center;
+}
+.viewmore{
+    margin-bottom: 20px;
+    background-color: green;
+    width: 200px;
+    height: 50px;
+}
