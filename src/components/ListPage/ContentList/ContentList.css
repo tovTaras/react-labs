@@ -1,0 +1,23 @@
+.col {
+    margin-right: 30px ;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.carousel {
+    background-color: rgba(232,227,207,255);
+    height: 500px;
+
+}
+
+.container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+}
+
+.carousel-control-prev {
+    left: -70px;
+}
